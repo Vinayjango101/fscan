@@ -25,10 +25,7 @@
 
 ## 🚀 Quick Start
 
-### 🔧 Installation
-
-
-**Manuall install:**
+**Install dependencies:**
 
 ```bash
 pip install dnspython python-whois requests
